@@ -70,6 +70,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayshaw0125&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
-
-  <img src="https://github.com/abhayshaw0125/abhayshaw0125/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
