@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-🎓 I’m a **B.Tech graduate in Information Technology** with a strong passion for  DevOps**.  
+🎓 I’m a **B.Tech graduate in Information Technology** with a strong passion for  **DevOps**.  
 🚀 I love building automating workflows and exploring cloud technologies to solve real-world problems.  
 🌱 Currently, I’m sharpening my skills in **DSA and K8s**.  
 💬 I enjoy discussing **scalable systems, and modern DevOps tools**.  
@@ -36,7 +36,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -56,8 +55,6 @@
 ### 💻 IDEs I Use:
 <p align="left">
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
-</p>
 
 ---
 
