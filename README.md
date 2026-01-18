@@ -13,10 +13,10 @@
 
 ### 👨‍💻 About Me
 
-🎓 I’m a **B.Tech graduate in Information Technology** with a strong passion for **Data Engineering, DevOps**, and **AI/ML**.  
-🚀 I love building data pipelines, automating workflows, and exploring cloud technologies to solve real-world problems.  
-🌱 Currently, I’m sharpening my skills in **PySpark, AWS, and DSA**.  
-💬 I enjoy discussing **data infrastructure, scalable systems, and modern DevOps tools**.  
+🎓 I’m a **B.Tech graduate in Information Technology** with a strong passion for  DevOps**.  
+🚀 I love building automating workflows and exploring cloud technologies to solve real-world problems.  
+🌱 Currently, I’m sharpening my skills in **DSA and K8s**.  
+💬 I enjoy discussing **scalable systems, and modern DevOps tools**.  
 📫 Reach me at **abhayshaw0125@gmail.com**
 
 ---
