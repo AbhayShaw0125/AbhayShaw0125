@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there, I'm Abhay Shaw!</h1>
-<h3 align="center">🚀 Data Engineer | DevOps Enthusiast | Exploring the world of AI/ML</h3>
+<h3 align="center">DevOps Enthusiast</h3>
 
 <p align="center">
   <em>"Turning data into decisions, automation into impact, and curiosity into code."</em>
