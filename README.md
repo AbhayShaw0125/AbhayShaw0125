@@ -16,7 +16,7 @@
 🎓 I’m a **B.Tech graduate in Information Technology** with a strong passion for  **DevOps**.  
 🚀 I love building automating workflows and exploring cloud technologies to solve real-world problems.  
 🌱 Currently, I’m sharpening my skills in **DSA and K8s**.  
-💬 I enjoy discussing **scalable systems, and modern DevOps tools**.  
+💬 I enjoy discussing **scalable systems and modern DevOps tools**.  
 📫 Reach me at **abhayshaw0125@gmail.com**
 
 ---
